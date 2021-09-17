@@ -14,7 +14,7 @@ SO THAT our own site is optimized for search engines
 ```
 
 ### Link to Live Site
-[Horiseon](https://mohamedmesahel.github.io/horiseon-website/)
+[Horiseon](https://mohamedmesahel.github.io/Horiseon-website/)
 
 ### Screen Shots
 
