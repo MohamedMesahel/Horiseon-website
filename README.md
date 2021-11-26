@@ -20,6 +20,7 @@ Refactor an existing site to make it more accessible.
       </ul>
     </li>
     <li><a href="#user-story">User Story</a></li>
+    <li><a href="#link-to-live-demo">Link to Live Demo</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -76,7 +77,7 @@ https://github.com/MohamedMesahel
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
-OnClick() =>{} :smile:
+OnClick() =>{:smile:} 
 
 <!-- LICENSE -->
 ## License
