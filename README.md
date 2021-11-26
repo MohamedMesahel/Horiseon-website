@@ -11,7 +11,7 @@
 Refactor an existing site to make it more accessible. 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -48,7 +48,6 @@ SO THAT our own site is optimized for search engines
 ### Built With
 
 HTML and CSS.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
@@ -72,9 +71,12 @@ Don't forget to give the project a star! Thanks again!
 Mohamed Mesahel - mohamed.mesahel86@gmail.com
 
 [![Website shields.io](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://shields.io/)
+
 https://github.com/MohamedMesahel
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] 
+
+OnClick() =>{} :smile:
 
 <!-- LICENSE -->
 ## License
@@ -90,6 +92,7 @@ List for some useful resources!
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
